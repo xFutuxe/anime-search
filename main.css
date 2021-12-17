@@ -70,6 +70,8 @@ body {
     top: 95%;
     left: 50%;
     transform: translate(-50%, -50%);
+    letter-spacing: 5px;
+    font-size: 19px;
 }
 #animeInfo {
     color: black;

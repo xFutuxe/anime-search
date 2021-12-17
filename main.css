@@ -1,0 +1,182 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+
+
+body {
+    background-color: #07051a;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+#mainTitle {
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 40px;
+    letter-spacing: 6px;
+}
+#animeTitle {
+    position: absolute;
+    top: 30%;
+    left: 21%;
+    transform: translate(-50%, -50%);
+    font-size: 15px;
+    letter-spacing: 6px; 
+
+}
+#inputBox {
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+}
+#animeCover {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: auto;
+    width: auto;
+    padding: 5px right;
+    border-radius: 5px;
+}
+.card {
+    text-align: center;
+    background: #000000d0;
+    padding: 1em;
+    border-radius: 20px;
+    margin: 1em;
+    background: rgba( 255, 255, 255, 0.15 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 5.5px );
+    -webkit-backdrop-filter: blur( 5.5px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    height: 350px;
+    width: 250px;
+
+}
+.card1 {
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+
+}
+#footer {
+    position: absolute;
+    top: 95%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#animeInfo {
+    color: black;
+}
+.modal-title {
+    color: black !important;
+}
+#infoButton {
+    position: absolute;
+    top: 75%;
+    left: 21%;
+    transform: translate(-50%, -50%);
+}
+#malLink {
+    color: black;
+}
+#betaWarning {
+    width: 700px;    
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#showGroup {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    position: absolute;
+    top: 35%;
+    left: 34%;
+    transform: translate(-50%, -50%);
+    font-size: 14px;
+    letter-spacing: 5px;
+}
+#showGroupTitle {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    color: grey;
+    position: absolute;
+    top: 35%;
+    left: 31%;
+    transform: translate(-50%, -50%);
+    font-size: 20px;
+    letter-spacing: 5px;
+}
+#ageRatingTitle {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    color: grey;
+    position: absolute;
+    top: 40%;
+    left: 31.6%;
+    transform: translate(-50%, -50%);
+    font-size: 20px;
+    letter-spacing: 5px;
+}
+#ageRating {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    position: absolute;
+    top: 40%;
+    left: 36%;
+    transform: translate(-50%, -50%);
+    font-size: 14px;
+    letter-spacing: 5px;
+}
+#airingStatusTitle {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    color: grey;
+    position: absolute;
+    top: 45%;
+    left: 31.5%;
+    transform: translate(-50%, -50%);
+    font-size: 20px;
+    letter-spacing: 5px;
+}
+#airingStatus {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    position: absolute;
+    top: 45%;
+    left: 36%;
+    transform: translate(-50%, -50%);
+    font-size: 14px;
+    letter-spacing: 5px;
+}
+#showEpisodesTitle {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    color: grey;
+    position: absolute;
+    top: 50%;
+    left: 32.5%;
+    transform: translate(-50%, -50%);
+    font-size: 20px;
+    letter-spacing: 5px;
+}
+#showEpisodes {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 37.3%;
+    transform: translate(-50%, -50%);
+    font-size: 14px;
+    letter-spacing: 5px;
+}
+
+
+

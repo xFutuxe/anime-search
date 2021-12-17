@@ -1,6 +1,13 @@
 # Anime Lookup/Search
 ## This website allows you to search any anime and and get information on it.
 
+## Development list
+- [x] Main Functionality (Searching shows)
+- [ ] Links to external services (MAL, AniList)
+- [ ] Showing airing schedule
+- [ ] Completing frontend
+- [x] Christmas Flare
 
-### Currently it is not fully published but I have decided to add the frontend to the repo, later once I have finished the backend I might add it in
-### Once it is done I will have it hosted and public
+Ideas might get added or removed from this list
+This is also in heavy development (no where near finished), so issues are to be expected
+I will add the backend and deploy the website soon.

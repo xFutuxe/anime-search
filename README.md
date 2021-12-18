@@ -6,7 +6,7 @@
 - [ ] Links to external services (MAL, AniList)
 - [ ] Showing airing schedule
 - [ ] Completing frontend
-- [x] Christmas Flare
+- [x] Going through shows with arrows
 - [ ] Phone and other browser size support.
 
 Ideas might get added or removed from this list

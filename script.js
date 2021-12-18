@@ -10,6 +10,8 @@ url = fetch('https://api.jikan.moe/v3/search/anime?q=naruto')
     return response.json();
   })
 .then(function (myjson) {
+
+
     var airingStatus = document.getElementById("airingStatus")
 
     document.getElementById("animeTitle").innerHTML = myjson.results[0].title

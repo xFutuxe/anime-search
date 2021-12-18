@@ -7,6 +7,7 @@
 - [ ] Showing airing schedule
 - [ ] Completing frontend
 - [x] Christmas Flare
+- [ ] Phone and other browser size support.
 
 Ideas might get added or removed from this list
 This is also in heavy development (no where near finished), so issues are to be expected

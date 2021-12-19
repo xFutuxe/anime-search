@@ -55,7 +55,6 @@ url = fetch('https://api.jikan.moe/v3/search/anime?q=naruto')
     if (myjson.results[result].rated == "R+") {
         document.getElementById("ageRating").style.fontSize = "x-large"
     }
-    
 })
 
 

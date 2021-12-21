@@ -1,12 +1,12 @@
 # Anime Lookup/Search
-## This website allows you to search any anime and and get information on it.
-
-## Development list
+This website allows you to search any anime and and get information on it.
+ 
+ **Development list**
 - [x] Main Functionality (Searching shows)
 - [ ] Links to external services (MAL, AniList)
 - [ ] Showing airing schedule
 - [ ] Completing frontend
-- [x] Show selection
+- [x] Anime selection
 - [ ] Phone and other browser size support.
 
 Ideas might get added or removed from this list
